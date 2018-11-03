@@ -303,7 +303,7 @@ DOMAIN,track.uc.cn
 DOMAIN,adsp.xunlei.com
 DOMAIN,etl.xlmc.sandai.net
 
-# > Blacklist
+# > Blocklist
 DOMAIN-SUFFIX,4009997658.com
 DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,bartender.cc
